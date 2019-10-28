@@ -1,7 +1,7 @@
 ## Funcion que calcula los subtotales a pagar por multiples productos
 ## dadas las cantidades, precios e ivas de los mismos
 
-## Se asume que las tres entradas tienen el mismo tamaño
+## Se asume que las tres entradas tienen el mismo tamañ
 
 def calcular_subtotales(cantidades, precios, ivas):
     subtotales = list()
